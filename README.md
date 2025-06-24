@@ -1,23 +1,23 @@
 
 # Chatbot for FAQs 
 
-## 👤 Developer
+##  Developer
 **Abhishek Singh**  
 B.Tech CSE, OP Jindal University  
 Intern at **Code Alpha**  
 
-## 📌 Project Overview
+##  Project Overview
 This project is a chatbot system designed to answer Frequently Asked Questions (FAQs) related to a product or topic using two approaches:
 1. Static Matching using NLP techniques and cosine similarity.
 2. Dynamic Answering using Google's Gemini API for more natural responses when static match fails.
 
-## 🔧 Features
+##  Features
 - Collects and preprocesses FAQ data using NLTK
 - Matches user queries using cosine similarity
 - Switches to Gemini API if no close FAQ match is found
 - Web-based chatbot interface using Flask and HTML
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - Flask
 - NLTK
@@ -25,7 +25,7 @@ This project is a chatbot system designed to answer Frequently Asked Questions (
 - Google Generative AI (Gemini)
 - HTML/CSS (for UI)
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the repository
 ```bash
